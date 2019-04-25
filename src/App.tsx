@@ -11,6 +11,7 @@ interface IState {
 class App extends React.Component<{},IState>{
   public constructor(props:any){
     super(props)
+    document.title = "How Old?";
     this.state = {
       filelength:0,
       result:"",
