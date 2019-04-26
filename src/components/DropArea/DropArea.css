@@ -13,9 +13,9 @@
     padding-top: 5px;
     padding-bottom: 0px;
     height: 51vh;
-    background-color: #202125;
-    border-radius: 20px;
-    color: white;
+    background-color: rgba(33, 33, 33, 0.4);
+    border-radius: 5px;
+    color: #eeeeee;
   }
   
   .image1 {

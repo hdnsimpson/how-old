@@ -25,8 +25,10 @@ class App extends React.Component<{},IState>{
   public render() {
     return (
       <div>
+        <br />
         <Header />
         <DropArea setResults={this.resultstate} />
+        <br />
         <Result result={this.state.result} filelength={this.state.filelength} />
       </div>
     );
