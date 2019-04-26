@@ -7,3 +7,4 @@
  - A light theme has been adopted, with greys and off whites
  - Fonts have been changed
  - Drop Area has been made more rectangular with sharper edges for a more minimalistic feel
+ - Spacing between header, drop area and results elements has been changed
