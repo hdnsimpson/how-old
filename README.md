@@ -1,6 +1,6 @@
 # How Old? - A React Web App
 
-![alt text](https://cdn.vox-cdn.com/thumbor/Y0aNjojGxPz1bWBsT5cYJmSlXbU=/0x0:640x427/1200x800/filters:focal(0x0:640x427)/cdn.vox-cdn.com/assets/3666711/satyanadella.jpg)
+![alt text](https://github.com/hdnsimpson/how-old/blob/master/how-old-screenshot.png)
 
 ## Changes from the default How Old? application
  - Tab title and icon changed from default React App
